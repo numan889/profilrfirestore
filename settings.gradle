@@ -1,0 +1,2 @@
+rootProject.name='Profilr Firestore'
+include ':app'
